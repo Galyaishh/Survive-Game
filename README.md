@@ -80,8 +80,8 @@ Fix: manually typed the correct URL into `strings.xml`.
 
 ## Work Summary
 
-- Decompiled APK using [`apktool` and `jadx`](http://www.javadecompilers.com/)
-- Find activities in folders and needed files
+- Decompiled APK using [Java Decompilers](http://www.javadecompilers.com/) to access the source code
+- Found activities in folders and required files (`R.string.url`, `ic_*.xml`, etc.)
 - Reconstructed source code manually in Android Studio
 - Fixed logic bugs and UI issues
 - Rebuilt manifest and layout structure
@@ -89,7 +89,7 @@ Fix: manually typed the correct URL into `strings.xml`.
 
 ---
 
-## 🏁 How to Run
+## How to Run
 
 1. Open the project in Android Studio
 2. Run on a device or emulator
@@ -101,7 +101,10 @@ Fix: manually typed the correct URL into `strings.xml`.
 
 ## Screenshots
 
-*(Add a screenshot of the success toast here)*
+
+https://github.com/user-attachments/assets/e62bc7e8-fee1-43da-93f9-9048b675c321
+
+
 
 ---
 
