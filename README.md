@@ -101,10 +101,7 @@ Fix: manually typed the correct URL into `strings.xml`.
 
 ## Screenshots
 
-
-https://github.com/user-attachments/assets/e62bc7e8-fee1-43da-93f9-9048b675c321
-
-
+https://github.com/user-attachments/assets/c1fb1169-39f0-4d5b-94b5-2427b2b99aa3
 
 ---
 
